@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Timothy Lau - [@thetimothylau](https://twitter.com/thetimothylau) - email@example.com
+Timothy Lau - [@thetimothylau](https://twitter.com/thetimothylau) - timothy-lau@outlook.com
 
 Project Link: [https://github.com/pixelcattt/core](https://github.com/pixelcattt/core)
 
