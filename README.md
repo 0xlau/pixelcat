@@ -21,10 +21,9 @@
   <p align="center">
     A solution for video frame encryption
     <br />
-    <a href="https://github.com/pixelcattt/core"><strong>Explore the docs »</strong></a>
+    <!--a href="https://github.com/pixelcattt/core"><strong>Explore the docs »</strong></a-->
     <br />
-    <br />
-    <a href="https://www.bilibili.com/video/BV1nZ421i7Zn">View Showcase</a>
+    <a href="https://www.bilibili.com/video/BV1nZ421i7Zn">👀 Video</a>
     ·
     <a href="https://github.com/pixelcattt/core/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
